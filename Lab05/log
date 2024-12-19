@@ -1,0 +1,28 @@
+/home/gchatzia/Lab05
+example1
+example1.c
+example2
+example2.c
+example3
+example3.c
+example4
+example4.c
+example5
+example5.c
+example6
+example6.c
+log
+  File: testFile
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 410586      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1262/gchatzia)   Gid: ( 1264/gchatzia)
+Access: 2024-12-19 12:56:06.964982459 +0200
+Modify: 2024-12-19 12:56:06.964982459 +0200
+Change: 2024-12-19 12:56:06.964982459 +0200
+ Birth: -
+rm: cannot remove 'testFile': No such file or directory
+./testFileNew
+this is some sample text
+this is some sample text
+this is some sample text
+this is some sample text
